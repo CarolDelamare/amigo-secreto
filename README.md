@@ -24,8 +24,10 @@ Este projeto é uma aplicação web simples que permite aos usuários adicionar 
 - Implementação de um sistema de grupos para diferentes sorteios.
 - Opção para remover nomes da lista antes do sorteio.
 - Melhorias na interface para uma experiência mais intuitiva.
+- 
 
 ## Autor
 Desenvolvido por Carolina Delamare.
 
-﻿# Meu Projeto
+![image](https://github.com/user-attachments/assets/5f64b33a-06e3-431b-a941-cca46f8c8607)
+
